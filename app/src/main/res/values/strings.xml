@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StoreGames</string>
+    <string name="game_title_label">Title</string>
+    <string name="game_details_label">Details</string>
+    <string name="game_buyed_label">Buyed</string>
+    <string name="game_wishlist">add to Wishlist</string>
 </resources>
